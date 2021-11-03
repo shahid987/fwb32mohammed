@@ -1,6 +1,12 @@
 # fwb32mohammed
 
-Readme file added
+Webapps Assignment-10
 
 
-https://fwb32mohammed.herokuapp.com/
+[hosted at](https://fwb32mohammed.herokuapp.com/)
+
+Class Gas
+
+rocket_type(string)
+quantity(number)
+cost(number)
